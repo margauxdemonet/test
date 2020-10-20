@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<head>
+<meta charset="UTF-8" />
+	<title> exercice 2 </title>
+</head>
+<style>
+  body {
+    background-color: #FFE4E1}
+    h1 {color : #2F4F4F; text-align: center; font-family: impact; font-weight : 200 ; font-size:5em;}
+    h2 { text-align: center; color: grey; font-family: impact; font-weight : 200;}
+  
+    ul {font-family: impact; font-weight: 200; margin-left: 500px;}
+    a:link {color: #2F4F4F;}
+    a:visited {color: #BC8F8F;}
+    a:hover {color: #B0C4DE}
+    a:active {color: #D8BFD8;}
+    h3 {text-align: center; font-family: impact; color:#2F4F4F ; font-weight: 200;}
+    p  {text-align: center; font-family: impact; color: #BC8F8F;}
+    img{display: block;
+    	margin-left: auto;
+    	margin-right: auto;
+    	}
+    #bloc {background-color: #D8BFD8; width: 500px; height: 300px ; margin-left: auto;
+    margin-right: auto;
+    }
+a.bouton2{  font-family: reem kufi;
+        font-size: 1em;
+     font-weight: 200;
+     padding-top: 7px; /*permet le centrage vertical*/
+     text-align: center;
+     color: #FFE4E1;
+     background: #2F4F4F;;
+     background: linear-gradient( #555, #2C2C2C);
+   border-radius: 9px; text-shadow: 0px 1px 0px white;
+text-shadow: 0px 1px 0px rgba( 255, 255, 255, 0.2);
+box-shadow: 0 0 5px rgba( 0, 0, 0, 0.5),
+                 0 -1px 0 rgba( 255, 255, 255, 0.4);
+                 }
+
+ @media (max-width: 600px)
+{h1 {font-size:2em;}}
+ </style>
+
+
+
+
+<style type="text/css"> 
+a:link 
+{ 
+ text-decoration:none; 
+} 
+</style>
+
+<body> 
+	<h1> JE SUIS NULLE EN CODAGE </h1> 
+	
+	
+
+	<h2>  Présentation  </h2> 
+
+	<p>
+		
+			
+			 <a href="C:\Users\DELL 02\Desktop\html\deuxieme_page.html"class="bouton2"> Marina Abramovic </a> 
+
+		
+</p>
+
+	<p> `•<a href="file:///C:/Users/DELL%2002/Desktop/test%20web.html" target="_blank" title="super facile" >Exercice 1 </a> </br> </p>
+	<p>	 •<a href="https://gauxxillustration.wordpress.com/ "target="_blank" title="super joli"> Mon chef-d'oeuvre </a> </br></p>
+	 
+		
+
+<img src="C:\Users\DELL 02\Documents\Dessins portfolio\oim.jpg" 
+	height="200 px"
+	width="200px" >
+
+<p> Je me présente, je m'appelle Margaux et j'ai 21 ans. J'ai fais un  </p>
+<p> baccalauréat littéraire options arts plastiques, et je suis </p>
+<p> passionnée d'art. A travers ce site créer en html/css, je vais </p>
+<p> vous faire découvrir très brièvement mon artiste favorite. </p>
+
+
+
+<h3 id='DLL'>télécharger spotify </h3>
+<p> <a href="https://www.spotify.com/fr/download/windows/b/" target="_blank" title="tout sauf wejdene">Télécharger Spotify pour écouter du bon son </a> <br> </p>
+
+
+
+
+
+	
