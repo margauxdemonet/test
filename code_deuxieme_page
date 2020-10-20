@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<head>
+<meta charset="UTF-8" />
+	<title> exercice 2 </title>
+</head>
+<style>
+  body {
+    background-color: #FFE4E1}
+    h1 {color : #2F4F4F; text-align: center; font-family: impact; font-weight : 200 ;}
+    h2 { text-align: center; color: grey; font-family: impact; font-weight : 200;}
+  
+    ul {font-family: impact; font-weight: 200; text-align:center;}
+    a:link {color: #2F4F4F;}
+    a:visited {color: #BC8F8F;}
+    a:hover {color: #B0C4DE}
+    a:active {color: #D8BFD8;}
+    h3 {text-align: center; font-family: impact; color:#2F4F4F ; font-weight: 200;}
+    p  {text-align: center; font-family: impact; color: #BC8F8F;}
+    img{display: block;
+    	margin-left: auto;
+    	margin-right: auto;
+    	}
+    #bloc {background-color: #D8BFD8; width: 500px; height: 400px ; margin-left: auto;
+    margin-right: auto;
+    }
+    a.bouton{  font-family: reem kufi;
+        font-size: 1em;
+     font-weight: 200;
+     padding-top: 7px; /*permet le centrage vertical*/
+     text-align: center;
+     color: #FFE4E1;
+     background: #2F4F4F;;
+     background: linear-gradient( #555, #2C2C2C);
+   border-radius: 8px; text-shadow: 0px 1px 0px white;
+text-shadow: 0px 1px 0px rgba( 255, 255, 255, 0.2);
+box-shadow: 0 0 5px rgba( 0, 0, 0, 0.5),
+                 0 -1px 0 rgba( 255, 255, 255, 0.4);
+                 ;}
+
+
+ 
+
+ </style>
+
+
+<style type="text/css"> 
+a:link 
+{ 
+ text-decoration:none; 
+} 
+</style>
+
+
+
+<body> 
+   <h1> JE SUIS NULLE EN CODAGE </h1> 
+
+
+    <h2> Marina Abramovic </h2> 
+
+    <p>
+    
+         <a href="C:\Users\DELL 02\Desktop\html\exercice_2css.html"class="bouton">Présentation</a></li>
+           
+
+       <p>  •<a href="#début">Rhytm 0</a> </br> </p>
+        <p> •<a href="#milieu">Rest Energy</a> </br> </p>
+       <p>  •<a href="#fin">The artist is present </a> </br> </p>
+        
+   
+</p>
+	<p> Marina Abramovic est à mes yeux l'artiste la plus intéressante, je  </p>
+<p> l'admire pour son courage, sa modestie, et les messages qu'elle </p>
+<p> fait passer à travers ses performances.  </p>
+<div id="bloc">
+<h3 id="début">Rhytm O </h3>
+<img src="https://lewebpedagogique.com/latineinstein/files/2018/05/pasted-image-0-6.png" 
+    height="300 px"
+    width="300px" > </div>
+<p> Voici une photo de sa performance "Rhytm O". L'artiste devait rester </p>
+<p> debout durant 6 heures, et le public pouvait intéragir avec elle</p>
+<p> à l'aide de 72 objets répartis sur une table. Une partie était  </p>
+<p> remplie d'objets dis de "destruction", l'autre d'objets innofensifs. </p>
+<p> Au fil des heures, après avoir reçu des baisers, des fleurs..</p>
+<p> Les gens commencaient à devenir violent. Entre les agressions sexuelles,</p>
+<p> et le pistolet pointé sur la tempe, un homme lui a même coupé le cou </p>
+<p> pour boire son sang. Ils l'ont même attachés à une table. Au bout </p>
+<p> de six heures, le public ne pouvait plus la regarder dans les yeux: </p>
+<p> elle est redevenue humaine. Cette performance nous a montré que chaque  </p>
+<p> humain peut être violent si on lui en laisse l'occasion.Cependant, à la fin, </p>
+<p> le public était clairement divisé en deux parties:ceux qui lui font du mal</p>
+<p> et ceux contre.</p>
+<p> Voici quelques une de ses performances. </p>
+<div id="bloc">
+<h3 id="milieu">Rest Energy </h3> 
+<img src="https://www.moma.org/d/assets/W1siZiIsIjIwMTgvMTAvMzEvNGtkdGR5dHhqM180MjU4MC5qcGciXSxbInAiLCJjb252ZXJ0IiwiLXF1YWxpdHkgOTAgLXJlc2l6ZSAyMDAweDIwMDBcdTAwM2UiXV0/42580.jpg?sha=bac7aef222da8fbf"
+height="300 px" widht="300px"> </div>
+<p> Durant cette performance, Marina et son conjoint de l'époque, Ulay, </p>                              
+<p> tiennent tous les deux un arc, qui devient leur seul moyen de tenir debout. </p>                             
+<p> Cette performance montre à quelle point la confiance est l'équilibre d'un </p>
+<p> couple. C'est leur confiance qui la fait rester en vie. </p>
+<div id="bloc" >
+<h3 id="fin"> The artist is present </h3>
+<img src="C:\Users\DELL 02\Pictures\Saved Pictures\Marina-Abramovic7.gif" 
+    height="200 px"
+    width="300px" > </div>
+<p> Pour cette performance, Marina Abramovic est assise face à une table, </p>
+<p> au bout de laquelle se trouve une deuxième chaise. Chaque membre </p>
+<p> du public peut venir se placer face à elle, pendant une minute.</p>
+<p> On se rend compte que souvent, même sans rien dire et en un regard, </p>
+<p> on peut transmettre un tas d'émotions. Sur le gif, ce sont les retrouvailles </p>
+<p> de l'artiste et son ex-mari, Ulay. Elle est en larmes. </p>
+
+
+
+
+
